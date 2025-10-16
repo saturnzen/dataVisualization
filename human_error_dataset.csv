@@ -1,0 +1,11 @@
+﻿ID,Action,Type,Knowledge,Awareness,Impact,Description
+1,Missed Save,Lapse,8,6,4,Quên lưu file sau khi chỉnh sửa
+2,Wrong Formula,Error,6,8,3,Nhập sai công thức tính toán
+3,Public Misstatement,Blunder,7,4,9,Phát biểu sai trước truyền thông
+4,Ignored Warning,Negligence,9,3,8,Biết rủi ro nhưng bỏ qua cảnh báo
+5,Overconfidence Pitch,Hubris,9,5,7,Quá tự tin khi thuyết trình dù thiếu chứng cứ
+6,Clicked Phishing Link,Foolishness,5,3,6,Tin vào email lừa đảo
+7,Trusting Stranger,Naivety,4,7,5,Tin người không rõ nguồn gốc
+8,Entered Wrong Password 10x,Stupidity,2,2,2,Lặp lại cùng lỗi rõ ràng
+9,Typo in Report,Slip,8,8,2,Gõ sai chữ trong báo cáo
+10,Sent Email to Wrong Client,Blunder,7,5,8,Gửi nhầm người nhận quan trọng
