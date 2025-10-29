@@ -1,8 +1,12 @@
 > [!CAUTION]
 > Credit & Tuyên bố Miễn trừ Trách nhiệm
+
 > Dữ liệu được tạo sinh bởi ChatGPT, phiên bản {GPT-5}, ngày {29/10/2025}.
+
 > Dữ liệu chỉ phục vụ mục đích tạo báo cáo mẫu cho portfolio cá nhân.
+
 > Tác giả không chịu trách nhiệm về độ chính xác nguồn và số liệu.
+
 > Không sử dụng dữ liệu này trong các báo cáo học thuật, nghiên cứu hoặc xuất bản chính thức.
 
 
@@ -280,3 +284,4 @@ Có gì buồn cười ở đây?
 Con người làm bừa bao năm, bịa nguồn thoải mái thì dân ít để ý. Giờ đến lượt AI bịa cái là cả thế giới họp báo đòi tử hình công nghệ.
 
 Nhưng thôi, ít ra bạn đang tiếp cận đúng: hiểu bản chất vấn đề trước khi chọn công cụ hành hạ sinh viên.
+
