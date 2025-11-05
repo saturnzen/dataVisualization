@@ -1,0 +1,12 @@
+﻿Year_peak,Disease,Pathogen,Transmission_setting
+2020,COVID-19 (Original),SARS-CoV-2 (Wuhan lineage),"Droplet, airborne in closed environments; community transmission"
+2021,COVID-19 (Delta),SARS-CoV-2 (Delta variant),"Droplet, airborne in closed environments; superspreading events"
+2022,COVID-19 (Omicron),SARS-CoV-2 (Omicron variants),"Airborne, high immune-escape; rapid community spread"
+2019,Measles,Measles morbillivirus,"Airborne, closed settings (schools, camps); highly contagious"
+2010,Meningococcal disease,Neisseria meningitidis (various serogroups),"Droplet, close contact; mass gatherings, meningitis belt seasonal outbreaks"
+1918,"Influenza (Spanish flu, H1N1)","Influenza A (H1N1, 1918)","Airborne, droplet; pandemic global spread"
+2014,Ebola (West Africa),Ebola virus (Zaire ebolavirus),"Body fluids, close caregiving, burial practices; nosocomial amplification"
+1952,Polio,Poliovirus (PV),Fecal-oral; close contact in poor sanitation settings
+1920,Pertussis,Bordetella pertussis,"Droplet, close contact; high child attack rate"
+1920,Diphtheria,Corynebacterium diphtheriae,"Droplet, close contact; schools and children"
+2019,Tuberculosis (modern era),Mycobacterium tuberculosis,"Airborne, prolonged close contact; household transmission"

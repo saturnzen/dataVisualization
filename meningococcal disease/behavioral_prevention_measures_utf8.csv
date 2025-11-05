@@ -1,0 +1,28 @@
+﻿Biện pháp phòng bệnh,Hiệu quả giảm lây nhiễm,Mức độ đơn giản tuân thủ,Sự cần thiết phải tuân thủ,Thời điểm đánh giá
+Rửa tay,0.5,0.5,0.7,Bình thường
+Rửa tay,0.5,0.6,0.85,Trước dịch
+Rửa tay,0.5,0.8,1.0,Đỉnh dịch
+Khẩu trang,0.6,0.3,0.6,Bình thường
+Khẩu trang,0.75,0.5,0.8,Trước dịch
+Khẩu trang,0.85,0.7,1.0,Đỉnh dịch
+Xịt khuẩn bề mặt,0.3,0.4,0.5,Bình thường
+Xịt khuẩn bề mặt,0.5,0.3,0.6,Trước dịch
+Xịt khuẩn bề mặt,0.7,0.1,0.8,Đỉnh dịch
+Xúc miệng nước muối,0.2,0.6,0.5,Bình thường
+Xúc miệng nước muối,0.25,0.65,0.6,Trước dịch
+Xúc miệng nước muối,0.3,0.7,0.7,Đỉnh dịch
+Tránh tụ tập đông người,0.4,0.2,0.5,Bình thường
+Tránh tụ tập đông người,0.6,0.3,0.8,Trước dịch
+Tránh tụ tập đông người,0.8,0.4,1.0,Đỉnh dịch
+Thông gió phòng,0.4,0.5,0.7,Bình thường
+Thông gió phòng,0.5,0.55,0.8,Trước dịch
+Thông gió phòng,0.6,0.6,0.9,Đỉnh dịch
+Vaccine chủng ngừa,1.0,0.5,0.7,Bình thường
+Vaccine chủng ngừa,1.0,1.0,0.5,Trước dịch
+Vaccine chủng ngừa,1.0,1.0,1.0,Đỉnh dịch
+Ở nhà khi có triệu chứng,0.7,0.4,0.8,Bình thường
+Ở nhà khi có triệu chứng,0.8,0.6,0.9,Trước dịch
+Ở nhà khi có triệu chứng,0.9,0.7,1.0,Đỉnh dịch
+Kháng sinh dự phòng người tiếp xúc gần,0.9,0.2,0.9,Bình thường
+Kháng sinh dự phòng người tiếp xúc gần,0.9,0.3,0.95,Trước dịch
+Kháng sinh dự phòng người tiếp xúc gần,0.95,0.4,1.0,Đỉnh dịch

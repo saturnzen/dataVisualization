@@ -1,0 +1,37 @@
+﻿Disease,Transmission
+COVID-19 (Original),droplet
+COVID-19 (Original),airborne
+COVID-19 (Original),community transmission
+COVID-19 (Delta),droplet
+COVID-19 (Delta),airborne
+COVID-19 (Delta),superspreading events
+COVID-19 (Omicron),airborne
+COVID-19 (Omicron),high immune-escape
+COVID-19 (Omicron),rapid community spread
+Measles,airborne
+Measles,closed settings
+Measles,highly contagious
+Meningococcal disease,droplet
+Meningococcal disease,close contact
+Meningococcal disease,mass gatherings
+Meningococcal disease,meningitis belt seasonal outbreaks
+"Influenza (Spanish flu, H1N1)",airborne
+"Influenza (Spanish flu, H1N1)",droplet
+"Influenza (Spanish flu, H1N1)",pandemic global spread
+Ebola (West Africa),body fluids
+Ebola (West Africa),close caregiving
+Ebola (West Africa),burial practices
+Ebola (West Africa),nosocomial amplification
+Polio,fecal-oral
+Polio,close contact
+Polio,poor sanitation settings
+Pertussis,droplet
+Pertussis,close contact
+Pertussis,high child attack rate
+Diphtheria,droplet
+Diphtheria,close contact
+Diphtheria,schools
+Diphtheria,children
+Tuberculosis (modern era),airborne
+Tuberculosis (modern era),prolonged close contact
+Tuberculosis (modern era),household transmission
